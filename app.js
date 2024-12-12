@@ -10,3 +10,6 @@ const getMe = (token)=> {
     return user;
 };
 
+const addCourse = ()=> {
+    return course;
+}
