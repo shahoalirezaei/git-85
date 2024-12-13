@@ -13,3 +13,7 @@ const getMe = (token)=> {
 const addCourse = ()=> {
     return course;
 }
+
+const removeCourse = ()=> {
+    return {msg: "course removed"}
+}
