@@ -10,3 +10,10 @@ const getMe = (token)=> {
     return user;
 };
 
+const addCourse = ()=> {
+    return course;
+}
+
+const removeCourse = ()=> {
+    return {msg: "course removed"}
+}
