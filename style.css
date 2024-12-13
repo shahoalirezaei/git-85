@@ -2,3 +2,8 @@ body {
     box-sizing: border-box;
     background-color: blanchedalmond;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+}
